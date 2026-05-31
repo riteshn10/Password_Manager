@@ -11,7 +11,7 @@ A secure and user-friendly command-line Password Manager built with Python.
 * Save Passwords to a File
 * Menu-Driven Interface
 * Input Validation
-* Secure Password Generation using Python's `secrets` module
+* Secure Password Generation using Python's secrets module
 
 ## Technologies Used
 
@@ -70,18 +70,10 @@ Ratings:
 * Medium
 * Strong
 
-## Example
+## Screenshots
+<img width="455" height="432" alt="image" src="https://github.com/user-attachments/assets/5b64d0ec-0cb4-4756-aec8-aef073c82b7f" />
 
-=== Password Generator ===
-
-Enter password length: 12
-Include uppercase letters? (y/n): y
-Include lowercase letters? (y/n): y
-Include numbers? (y/n): y
-Include symbols? (y/n): y
-
-Generated Password:
-A@7kLm!29xQ#
+<img width="545" height="495" alt="image" src="https://github.com/user-attachments/assets/8f4536cb-1a3f-4ec1-8392-18f844815283" />
 
 
 ## Why This Project?
